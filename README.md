@@ -19,8 +19,6 @@
 - **Start & End Dates:** Set and track the start and end dates for tasks and projects to stay on schedule.
 
 ### Communication & Collaboration
-- **Team Chat:** Keep your team connected with in-app team-wide chat, facilitating real-time communication.
-- **Private Messaging:** Need to discuss something privately? Engage in one-on-one private chats between two users.
 - **Task Comments:** Add comments to specific tasks for clarity, updates, or discussion.
 - **Attachments:** Share important files and documents directly within tasks for easy access by all team members.
 
