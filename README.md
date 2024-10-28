@@ -24,5 +24,5 @@
 - **Task Comments:** Add comments to specific tasks for clarity, updates, or discussion.
 - **Attachments:** Share important files and documents directly within tasks for easy access by all team members.
 
+![FAKS](https://github.com/user-attachments/assets/de52c03d-dbe2-4f29-ae27-5edd410cdb23)
 
-![image](https://github.com/user-attachments/assets/e3c4e987-bed6-4325-84b4-e0ff3518fd23)
